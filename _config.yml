@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: 何其泽 博士 助理研究员
 description: 公安部上海消防研究所
-title_prefix:何其泽
-tag_title_prefix: 何其泽
-category_title_prefix:何其泽
+
+tag_title_prefix: 'Posts tagged with'
