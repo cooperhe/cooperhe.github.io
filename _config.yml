@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: 何其泽 博士 助理研究员
-description: 公安部上海消防研究所  邮箱
+description: 公安部上海消防研究所
 
 archives:
     title: "Posts tagged with {{ page.title }}"
