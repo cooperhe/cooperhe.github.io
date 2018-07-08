@@ -6,8 +6,9 @@
 　　-美国德克萨斯大学奥斯汀分校（UT Austin）机械工程系访问学者（2014.08-2015.08）  
 　　-中国科学技术大学安全科学与工程系学士学位（2011.06）
 ### 二、奖励与荣誉
-　　[1]	优秀共产党员，公安部上海消防研究所，2018  
-　　[2]	会议最佳论文，第八届火灾科学与消防工程国际研讨会，2017  
+　　[1]	优秀共产党员，公安部上海消防研究所，2018
+　　[2]	[会议最佳论文，The International Symposium on Hydrogen Fire, Explosion and Safety Standard (ISHFESS2018)，2018](2018ISHFESS.md)
+　　[2]	会议最佳论文，第八届火灾科学与消防工程国际研讨会（8th International Conference on Fire Science and Fire Protection Engineering-on the Development of Performance-based Fire Code），2017  
 　　[3]	2017中国消防协会科学技术年会优秀论文三等奖，中国消防协会，2017  
 　　[4]	国家公派留学奖学金，国家留学基金委，2014  
 　　[5]	安徽省优秀毕业生，安徽省教育厅，2016
