@@ -3,4 +3,4 @@ title: 何其泽 博士 助理研究员
 description: 公安部上海消防研究所    邮箱：heqize@shfri.cn
 
 archives:
-    title: "Posts tagged with {{ og:site_name }}"
+    title: "Posts tagged with {{ page.title }}"
