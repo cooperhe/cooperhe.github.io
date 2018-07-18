@@ -26,7 +26,12 @@
 　　[9]	2016消防与应急救援国际学术研讨会，公安部科技强警基础工作专项项目（2016GABJC32），骨干，执行期：2016.03-2017.03  
 　　[10]	全国消防安全形势分析评估，国务院安委会专家咨询委员会研究项目，骨干，执行期：2016.9-2016.12
 
-### 四、发表论文和申请专利
+### 社会任职
+　　[1]	国际火灾安全科学学会会员 2010.6-   
+　　[2]	美国 ASTM 国际机械工程会议特约审稿人 2015.8-   
+　　[3]	福州大学环境与资源学院兼职指导教师 2017.02-2018.01
+
+### 五、发表论文和申请专利
 　　[1]	Qize He, Ofodike A Ezekoye, Changhai Li, Shouxiang Lu. Ventilation limited extinction of fires in ceiling vented compartments. International Journal of Heat and Mass Transfer, 2015, 91: 570-583.   
 　　[2]	Xue, Lin, Shouqi Yuan, and Qize He. A Comparative Study on the Influence of Ventilation on Weather-and Fire-Induced Stack Effect in the Elevator Shafts of a High-Rise Building. Fire Technology 54.1 (2018): 163-186.  
 　　[3]	Qize He, Juntao Yang, Yongfeng Zhang. Numerical simulation of fire induced gas flow in a narrow ceiling vented compartment. Procedia engineering, 2018, 211: 226-234.  
