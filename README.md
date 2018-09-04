@@ -7,12 +7,13 @@
 　　-中国科学技术大学安全科学与工程系学士学位（2011.06）
   
 ### 二、奖励与荣誉
-　　[1]	优秀共产党员，公安部上海消防研究所，2018  
-　　[2]	[会议最佳论文，The International Symposium on Hydrogen Fire, Explosion and Safety Standard (ISHFESS2018)，2018](2018ISHFESS/2018ISHFESS.md)  
-　　[3]	会议最佳论文，第八届火灾科学与消防工程国际研讨会（8th International Conference on Fire Science and Fire Protection Engineering-on the Development of Performance-based Fire Code），2017  
-　　[4]	2017中国消防协会科学技术年会优秀论文三等奖，中国消防协会，2017  
-　　[5]	国家公派留学奖学金，国家留学基金委，2014  
-　　[6]	安徽省优秀毕业生，安徽省教育厅，2016
+　　[1]	2018中国消防协会科学技术年会优秀论文一等奖，中国消防协会，2018  
+　　[2]	优秀共产党员，公安部上海消防研究所，2018  
+　　[3]	[会议最佳论文，The International Symposium on Hydrogen Fire, Explosion and Safety Standard (ISHFESS2018)，2018](2018ISHFESS/2018ISHFESS.md)  
+　　[4]	会议最佳论文，第八届火灾科学与消防工程国际研讨会（8th International Conference on Fire Science and Fire Protection Engineering-on the Development of Performance-based Fire Code），2017  
+　　[5]	2017中国消防协会科学技术年会优秀论文三等奖，中国消防协会，2017  
+　　[6]	国家公派留学奖学金，国家留学基金委，2014  
+　　[7]	安徽省优秀毕业生，安徽省教育厅，2016
 
 ### 三、项目资助
 　　[1]	典型区域多种燃料电池汽车示范运行研究：中国燃料电池汽车示范运行评价与安全规范研究，国家重点研发计划“新能源汽车”2018年重点专项（2018YFB0105700），骨干，执行期：2018.06-2021.05  
@@ -29,7 +30,9 @@
 ### 四、社会任职
 　　[1]	国际火灾安全科学学会会员 2010.6-   
 　　[2]	美国 ASTM 国际机械工程会议特约审稿人 2015.8-   
-　　[3]	福州大学环境与资源学院兼职指导教师 2017.02-2018.01
+　　[3]	Building Simulation期刊特约审稿人 2018.5-   
+　　[4]	国家自然科学基金函评专家 2017.10-   
+　　[5]	福州大学环境与资源学院兼职指导教师 2017.02-2018.01
 
 ### 五、发表论文和申请专利
 　　[1]	Qize He, Ofodike A Ezekoye, Changhai Li, Shouxiang Lu. Ventilation limited extinction of fires in ceiling vented compartments. International Journal of Heat and Mass Transfer, 2015, 91: 570-583.   
