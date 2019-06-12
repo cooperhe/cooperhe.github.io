@@ -35,21 +35,23 @@
 　　[5]	福州大学环境与资源学院兼职指导教师 2017.02-2018.01
 
 ### 五、发表论文和申请专利
-　　[1]	Qize He, Ofodike A Ezekoye, Changhai Li, Shouxiang Lu. Ventilation limited extinction of fires in ceiling vented compartments. International Journal of Heat and Mass Transfer, 2015, 91: 570-583.   
-　　[2]	Xue, Lin, Shouqi Yuan, and Qize He. A Comparative Study on the Influence of Ventilation on Weather-and Fire-Induced Stack Effect in the Elevator Shafts of a High-Rise Building. Fire Technology 54.1 (2018): 163-186.  
-　　[3]	Qize He, Juntao Yang, Yongfeng Zhang. Numerical simulation of fire induced gas flow in a narrow ceiling vented compartment. Procedia engineering, 2018, 211: 226-234.  
-　　[4]	马哲, 何其泽, 杨昀. 丙烷/氢气混合燃烧的火焰特征与辐射特性试验研究. 消防科学与技术, 2017, 36(9):1190-1193.  
-　　[5]	Yanming Ding, Frank Lin, Shouxiang Lu, Qize He, Changjian Wang, Ru Zhou. The effect of azeotropic blended fuel on combustion characteristics in a ceiling vented compartment. Fuel, 2017, 189: 1-7.  
-　　[6]	Qize He, Changhai Li, Shouxiang Lu, Changjian Wang, Jiaqing Zhang. Pool Fires in a Corner Ceiling Vented Cabin: Ghosting Flame and Corresponding Fire Parameters. Fire Technology, 2015, 51-3:537-552.   
-　　[7]	Jin Guo, Changjian Wang, Manhou Li, Qize He. Experimental study on spark ignition of non-premixed hydrogen jets. Journal of Thermal Science, 2014, 23-4: 354-358.   
-　　[8]	Qize He, Ofodike A Ezekoye. Beth Tubbs, Carl Baldassarra. CFD Simulation of Smoke Spread Through Elevator Shafts During Fires in High Rise Buildings. Proceedings of IMECE, 2015.  
-　　[9]	Qize He, Changhai Li, Shouxiang Lu, Shenshi Huang. Experimental study of pool fire burning behaviors in ceiling vented ship cabins. Procedia engineering, 2014, 71: 462-469.  
-　　[10]	Qize He, Changhai Li, Shouxiang Lu. Vent size effect on self-extinction of pool fire in a ceiling vented compartment. Procedia Engineering, 2013, 62: 242-249.   
-　　[11]	Shenshi Huang, Shouxiang Lu, Changhai Li, Qize He. Numerical Investigation of Fire Safety of an Indoor Pedestrian Street. Intelligent Computation Technology and Automation (ICICTA), 2014, 383-387.  
-　　[12]	何其泽, 黎昌海, 郭增辉. 商业建筑排烟口与挡烟垂壁组合控制烟气的实验研究. 安徽省科协年会—海湾杯“社会消防安全管理创新”专题年会. 2011.  
-　　[13]	郭增辉, 何其泽, 黎昌海. 挡烟垂壁与排烟口设置对烟气层高度的影响. 消防科学与技术, 2013, 32:841-843.  
-　　[14]	郭增辉, 何其泽, 黎昌海. 商业建筑机械排烟系统启动时间的研究. 消防科学与技术, 2013, 32:646-649.   
-　　[15]	郭增辉, 陆守香, 何其泽. 商业建筑排烟口与挡烟垂壁组合控制烟气. 消防科学与技术, 2012, 31:578-580.   
-　　[16]	[实用新型专利]陆守香, 何其泽, 黎昌海. 一种低流量细水雾喷头. （专利号：ZL201420448527.6）  
+　　[1]	Yanming Ding, Juan Zhang, Qize He, Biqing Huang, Shaohua Mao, The application and validity of various reaction kinetic models on woody biomass pyrolysis, Energy, Volume 179, 2019, Pages 784-791.   
+  　[2] Yanming Ding, Biqing Huang, Chuanbao Wu, Qize He, Kaihua Lu, Kinetic model and parameters study of lignocellulosic biomass oxidative pyrolysis, Energy, Volume 181, 2019, Pages 11-17.   
+　　[3]	Qize He, Ofodike A Ezekoye, Changhai Li, Shouxiang Lu. Ventilation limited extinction of fires in ceiling vented compartments. International Journal of Heat and Mass Transfer, 2015, 91: 570-583.   
+　　[4]	Xue, Lin, Shouqi Yuan, and Qize He. A Comparative Study on the Influence of Ventilation on Weather-and Fire-Induced Stack Effect in the Elevator Shafts of a High-Rise Building. Fire Technology 54.1 (2018): 163-186.  
+　　[5]	Qize He, Juntao Yang, Yongfeng Zhang. Numerical simulation of fire induced gas flow in a narrow ceiling vented compartment. Procedia engineering, 2018, 211: 226-234.  
+　　[6]	马哲, 何其泽, 杨昀. 丙烷/氢气混合燃烧的火焰特征与辐射特性试验研究. 消防科学与技术, 2017, 36(9):1190-1193.  
+　　[7]	Yanming Ding, Frank Lin, Shouxiang Lu, Qize He, Changjian Wang, Ru Zhou. The effect of azeotropic blended fuel on combustion characteristics in a ceiling vented compartment. Fuel, 2017, 189: 1-7.  
+　　[8]	Qize He, Changhai Li, Shouxiang Lu, Changjian Wang, Jiaqing Zhang. Pool Fires in a Corner Ceiling Vented Cabin: Ghosting Flame and Corresponding Fire Parameters. Fire Technology, 2015, 51-3:537-552.   
+　　[9]	Jin Guo, Changjian Wang, Manhou Li, Qize He. Experimental study on spark ignition of non-premixed hydrogen jets. Journal of Thermal Science, 2014, 23-4: 354-358.   
+　　[10]	Qize He, Ofodike A Ezekoye. Beth Tubbs, Carl Baldassarra. CFD Simulation of Smoke Spread Through Elevator Shafts During Fires in High Rise Buildings. Proceedings of IMECE, 2015.  
+　　[11]	Qize He, Changhai Li, Shouxiang Lu, Shenshi Huang. Experimental study of pool fire burning behaviors in ceiling vented ship cabins. Procedia engineering, 2014, 71: 462-469.  
+　　[12]	Qize He, Changhai Li, Shouxiang Lu. Vent size effect on self-extinction of pool fire in a ceiling vented compartment. Procedia Engineering, 2013, 62: 242-249.   
+　　[13]	Shenshi Huang, Shouxiang Lu, Changhai Li, Qize He. Numerical Investigation of Fire Safety of an Indoor Pedestrian Street. Intelligent Computation Technology and Automation (ICICTA), 2014, 383-387.  
+　　[14]	何其泽, 黎昌海, 郭增辉. 商业建筑排烟口与挡烟垂壁组合控制烟气的实验研究. 安徽省科协年会—海湾杯“社会消防安全管理创新”专题年会. 2011.  
+　　[15]	郭增辉, 何其泽, 黎昌海. 挡烟垂壁与排烟口设置对烟气层高度的影响. 消防科学与技术, 2013, 32:841-843.  
+　　[16]	郭增辉, 何其泽, 黎昌海. 商业建筑机械排烟系统启动时间的研究. 消防科学与技术, 2013, 32:646-649.   
+　　[17]	郭增辉, 陆守香, 何其泽. 商业建筑排烟口与挡烟垂壁组合控制烟气. 消防科学与技术, 2012, 31:578-580.   
+　　[18]	[实用新型专利]陆守香, 何其泽, 黎昌海. 一种低流量细水雾喷头. （专利号：ZL201420448527.6）  
   
 <p align="center">沪ICP备17054282号-1</p>
