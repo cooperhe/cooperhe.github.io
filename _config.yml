@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: 何其泽 博士 助理研究员
-description: 公安部上海消防研究所    邮箱：heqize@shfri.cn
+title: 何其泽 博士 副研究员
+description: 应急管理部上海消防研究所    邮箱：heqize@shfri.cn
 
 archives:
     title: "Posts tagged with {{ page.title }}"
